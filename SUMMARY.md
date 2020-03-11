@@ -27,6 +27,7 @@
     * [△守护天使](2019/11-yue/shou-hu-tian-shi.md)
     * [半熟偶像](2019/11-yue/ban-shou-ou-xiang.md)
     * [后的百太郎](2019/11-yue/hou-de-bai-tai-lang.md)
+    * [冒险岛 大型半导体存储器少女舞4622](2019/11-yue/mao-xian-dao-da-xing-ban-dao-ti-cun-chu-qi-shao-nv-wu-4622.md)
   * [10月](2019/10-yue.md)
   * [09月](2019/09-yue.md)
   * [08月](2019/08-yue.md)
