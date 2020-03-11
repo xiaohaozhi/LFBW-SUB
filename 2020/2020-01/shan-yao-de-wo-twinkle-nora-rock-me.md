@@ -30,5 +30,5 @@
 *  闪耀的我Twinkle Nora Rock Me!/Fonts/方正行楷\_GBK\(1\).TTF 7.1MB
 *  闪耀的我Twinkle Nora Rock Me!/\[冷番补完\]\[闪耀的我Twinkle Nora Rock Me!\]\[トゥインクル ノーラ ロック・ミー！ \]\[OVA\]\[1985\]\[480P\]\[简体外挂\].mkv 622.4MB
 
-
+{% file src="../../.gitbook/assets/twinkle-nora-rock-metuinkuru-nra-rokkum-ova1985.7z" %}
 
