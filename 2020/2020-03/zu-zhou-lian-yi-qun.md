@@ -72,5 +72,5 @@ description: 阿尼早期作品数码修复的《诅咒的连衣裙》
 * ![mp4](https://dmhy.anoneko.com/images/icon/mp4.gif)诅咒连衣裙/\[野比家字幕组&冷番补完字幕组\]\[诅咒连衣裙\]\[呪いのワンピース\]\[02\]\[480P\]\[1992\]\[简体外挂\].mp4 283MB
 * ![mp4](https://dmhy.anoneko.com/images/icon/mp4.gif)诅咒连衣裙/\[野比家字幕组&冷番补完字幕组\]\[诅咒连衣裙\]\[呪いのワンピース\]\[03\]\[480P\]\[1992\]\[简体外挂\].mp4 319.8MB
 
-{% file src="../../.gitbook/assets/inowanpsutvsp-01-031080p1992.7z" %}
+{% file src="../../.gitbook/assets/inowanpsunoroi-no-onepiecetvsp-01-031080p1992.7z" %}
 
