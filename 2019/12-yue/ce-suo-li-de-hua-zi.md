@@ -38,3 +38,5 @@
     *  [方正行楷\_GBK\(1\).TTF7.100MiB](https://share.dmhy.org/topics/view/530873_1996_480P.html#)
   *  [\[冷番补完\]\[厕所里的花子\]\[トイレの花子さん\]\[剧场版\]\[1996\]\[480P\]\[简体外挂\].avi265.900MiB](https://share.dmhy.org/topics/view/530873_1996_480P.html#)
 
+{% file src="../../.gitbook/assets/toirenosantoilet-no-hanako-san1996.7z" %}
+
