@@ -3,6 +3,8 @@
 * [冷番补完字幕组](README.md)
 * [招募](untitled.md)
 * [2020](2020/README.md)
+  * [04月](2020/04-yue/README.md)
+    * [摇摆少年梦](2020/04-yue/yao-bai-shao-nian-meng.md)
   * [03月](2020/2020-03/README.md)
     * [贝贝罗历险记](2020/2020-03/bei-bei-luo-li-xian-ji.md)
     * [诅咒连衣裙](2020/2020-03/zu-zhou-lian-yi-qun.md)
