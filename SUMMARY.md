@@ -34,6 +34,7 @@
   * [10月](2019/10-yue/README.md)
     * [天使夜未眠](2019/10-yue/tian-shi-ye-wei-mian.md)
     * [△命运九重奏](2019/10-yue/ming-yun-jiu-zhong-zou.md)
+    * [小露美](2019/10-yue/xiao-lu-mei.md)
   * [09月](2019/09-yue.md)
   * [08月](2019/08-yue.md)
   * [07月](2019/07-yue.md)
