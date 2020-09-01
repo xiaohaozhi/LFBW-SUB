@@ -89,7 +89,9 @@
       <td style="text-align:left">&#x65BD;&#x5DE5;&#x4E2D;&#x2026;</td>
     </tr>
   </tbody>
-</table>* [BT列表](https://share.dmhy.org/topics/view/534193_DEL_POWER_X_%21%21_X_%21%21_OVA_480P_1986.html#tabs-1)
+</table>
+
+* [BT列表](https://share.dmhy.org/topics/view/534193_DEL_POWER_X_%21%21_X_%21%21_OVA_480P_1986.html#tabs-1)
 
 **會員專用連接:** [ 【冷番补完字幕组】\[DEL POWERーX 爆发奇迹元气!!\]\[デルパワーX 爆発みらくる元気!! \]\[OVA\]\[480P\]\[1986\]\[简体外挂\]](https://dl.dmhy.org/2020/02/03/952e3c3656a549e7566d06180c5bcae0332d329e.torrent)
 
